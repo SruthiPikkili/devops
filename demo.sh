@@ -6,3 +6,5 @@ if [ $a > $b ]; then
 else
 	echo "b is greater than a"
 fi
+
+echo "hello"
